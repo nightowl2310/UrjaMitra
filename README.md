@@ -1,4 +1,4 @@
-Hybrid Renewable Energy Generation Solution
+# Hybrid Renewable Energy Generation Solution
 
 This project, developed for Smart India Hackathon 2025 (SIH25105), proposes an intelligent hybrid renewable energy management system designed to optimize campus level solar, wind, and battery infrastructure.
 
@@ -9,3 +9,5 @@ Key features include anomaly detection, predictive maintenance, peer to peer ene
 The solution requires minimal additional infrastructure, supports non technical staff through simplified dashboards, and improves grid stability, cost efficiency, and sustainability.
 
 The broader objective is to enable scalable, low cost smart utility management for campuses and government institutions while contributing to national clean energy goals.
+
+## Live link: 
